@@ -1,9 +1,9 @@
 # Support — Sitemate
 
-**App:** Sitemate
+**App:** TradeMate - Site Client Job
 **Publisher:** Dylan Stables
 
-This page describes how to get help with Sitemate and what to include when you contact us.
+This page describes how to get help with TradeMate - Site Client Job and what to include when you contact us.
 
 ---
 
@@ -30,7 +30,7 @@ We aim to respond within **[e.g. 2 business days]**. For account, billing, or da
 
 - Use the same email you registered with. If you use **Sign in with Apple** or **Google**, use that method consistently.
 - **Forgot password:** use your provider’s password reset (we don’t store passwords in plain text in the app description).
-- **Delete account:** [Describe your process, e.g. “Settings → …” or “Email us from your registered address with ‘Delete my account’.”]
+- **Delete account:** Settings -> Delete Account -> Confirm Deletion. 
 
 ### Subscriptions and billing
 
@@ -57,7 +57,7 @@ We aim to respond within **[e.g. 2 business days]**. For account, billing, or da
 
 ## Privacy and data requests
 
-For privacy questions or data access/deletion requests, see our **[Privacy Policy](./privacy-policy.md)** or email **[your-privacy-email@example.com]** from your registered account where possible.
+For privacy questions or data access/deletion requests, see our **[Privacy Policy](./privacy-policy.md)** or email **tradelog.invite@gmail.com** from your registered account where possible.
 
 ---
 
@@ -75,8 +75,7 @@ Email **[your-security-email@example.com]** with “Security” in the subject. 
 
 ## App Store / Play listing
 
-- **Sitemate** on the Apple App Store / Google Play.  
-- Listing metadata and screenshots are maintained by [Your company or legal name].
+- **Sitemate** on the Apple App Store / Google Play.   
 
 ---
 
