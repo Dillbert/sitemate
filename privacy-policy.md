@@ -74,7 +74,7 @@ We do **not** sell your personal information.
   - **Google Firebase** (Authentication, Firestore database, Cloud Storage for file uploads), regions and subprocessors as described in Google’s documentation.
 - **Subscription services:** e.g. **RevenueCat** for in-app purchase and entitlement management.
 
-The exact providers and regions depend on your app configuration. [Optional: state primary region, e.g. “Data may be processed in the United Kingdom and the European Economic Area / United States as required by our infrastructure.”]
+The exact providers and regions depend on your app configuration. Data may be processed in the United Kingdom and the European Economic Area / United States as required by our infrastructure.
 
 ---
 
