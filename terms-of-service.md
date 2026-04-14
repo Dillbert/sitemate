@@ -3,16 +3,21 @@
 **Last updated:** 14 April 2026  
 
 **App:** TradeMate – Site Client Job (the “App”)  
-**Publisher:** Dylan Stables (“we”, “us”, “our”)  
+**Publisher:** Dylan Stables (“we”, “us”, “our”)   
 
 These Terms of Service (these “Terms”) govern your access to and use of the App and any related services we make available (together, the “Service”). By creating an account, downloading, or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+
+**Apple App Store.** If you download the App from Apple’s App Store, **you and we acknowledge** that these Terms are concluded **only between you and Dylan Stables**, not with **Apple Inc.**, and that **we** (not Apple) are solely responsible for the App and its content. These Terms do not impose usage rules on the App that conflict with the **Apple Media Services Terms and Conditions** (as updated from time to time).
 
 ---
 
 ## 1. Who we are
 
-The Service is operated by Dylan Stables. 
-Contact: **tradelog.invite@gmail.com**.
+The Service is operated by **Dylan Stables**.
+
+- **Contact (email):** tradelog.invite@gmail.com   
+
+We are **solely responsible** for maintenance and support for the App as described in these Terms and through the contact above, except where the law requires otherwise. **Apple has no obligation** to furnish maintenance or support for the App beyond what Apple is required to provide by law.
 
 ---
 
@@ -35,6 +40,7 @@ The Service is a **tool for organising information**. It does **not** provide le
 - You must be at least **16** years old, or the minimum age required in your country to consent to use of the Service, whichever is higher.
 - You must provide accurate account information and keep your credentials secure. You are responsible for activity that occurs under your account, except where we are at fault.
 - We may suspend or terminate accounts that breach these Terms or put the Service or other users at risk.
+- **Sanctions and restricted parties (required by Apple).** You represent and warrant that: (i) you are not located in a country subject to a U.S. Government embargo or designated as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.
 
 ---
 
@@ -82,13 +88,21 @@ Deletion, export, and account closure are described in the App and our Privacy P
 
 ## 8. Intellectual property
 
+**Licence to you (App binary).** Subject to these Terms and the rules of the store from which you obtained the App, we grant you a limited, personal, **non-transferable** licence to use the App only as that store permits (for example, the end-user licence shown in the App Store or Google Play for the App).
+
+**If you obtained the App from the Apple App Store (Apple minimum terms).** Your licence is to use the App on **Apple-branded products** that you own or control, only as permitted by the **Usage Rules** in the **Apple Media Services Terms and Conditions** (including access via other accounts associated with the purchaser through **Family Sharing** or volume purchasing, where applicable). You must not rent, lease, lend, sell, redistribute, or sublicense the App except as Apple’s rules expressly allow.
+
 The App, its branding, and our materials are protected by copyright and other rights. Except for your own Your Content, we do not grant you ownership of any software, marks, or materials. You may not copy, modify, or distribute our software except as allowed by the store licence for the App binary you download.
+
+**Third-party IP claims (Apple minimum terms).** If a third party claims that the App or your possession or use of the App infringes that third party’s intellectual property rights, **we** (Dylan Stables), not Apple, will be solely responsible for the investigation, defence, settlement, and discharge of any such claim, subject to applicable law.
 
 ---
 
 ## 9. Third-party services
 
 The Service relies on third parties (including cloud providers, authentication, subscription management partners such as **RevenueCat**, and the **Apple** / **Google** stores). Their terms and privacy practices also apply to their parts of the journey. We are not responsible for third-party services outside our reasonable control.
+
+**Your compliance with third-party terms (Apple minimum terms).** You must comply with **all applicable third-party terms** when using the App (for example, your mobile or data service agreement, **Apple Media Services** / **App Store** terms, **Google Play** terms, and any terms of providers you use through the App such as Firebase or RevenueCat).
 
 ---
 
@@ -140,6 +154,8 @@ If you obtained the App from the Apple App Store, you acknowledge that:
 - Apple is not responsible for the App or Your Content;
 - in the event of failure to conform to any applicable warranty, you may notify Apple and Apple may refund the purchase price to the maximum extent permitted by Apple’s policies; and to the maximum extent permitted by law, Apple has no other warranty obligation;
 - Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms and may enforce them against you.
+
+**Product claims (Apple minimum terms).** You and we acknowledge that **we** (Dylan Stables), not Apple, are responsible for addressing any claims by you or any third party relating to the App or your possession or use of the App, including: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation. These Terms do not limit your statutory rights where the law does not allow them to be limited.
 
 ---
 
